@@ -13,11 +13,8 @@ status-website:
     introTitle: "Server Status"
 #   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
 #     theme: night
-    themeUrl: https://tensoract.github.io/status/assets/theme.css
-    logoUrl: https://tensoract.github.io/assets/logo-nobackground.svg
+    themeUrl: https://raw.githubusercontent.com/tensoract/status/master/assets/theme.css
+    logoUrl: https://raw.githubusercontent.com/tensoract/status/master/assets/logo-nobackground.svg
     faviconSvg: https://tensoract.github.io/assets/logo-nobackground.svg
     
     
-    
-    
-#theme
