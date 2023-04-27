@@ -31,5 +31,5 @@ status-website:
     themeUrl: https://example.com/theme.css
     name: Server Status
     logoUrl: https://example.com/logo.svg
-    cname: tensoract.github.io/status
+    cname: tensoract.github.io/status 
     
