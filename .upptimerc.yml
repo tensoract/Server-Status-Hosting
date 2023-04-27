@@ -14,8 +14,9 @@ status-website:
 #   navbar:
 #     - title: Status
 #       href: /
-    name: Status
-    themeUrl: https://example.com/theme.css
-    logoUrl: https://example.com/logo.svg
+#     themeUrl: https://example.com/theme.css
+#     logoUrl: https://example.com/logo.svg
+    theme: ocean
+    
     
     
