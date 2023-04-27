@@ -9,15 +9,15 @@ sites:
 
 status-website:
     baseUrl: /status
+    name: Status
     introTitle: "Server Status"
 #   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-    themeUrl: https://example.com/my-custom-theme.css
-#    theme: ocean
-    navbar:
-      title: Status
-#      href: /        
-      logoUrl: https://tensoract.github.io/assets/logo-nobackground.svg
-
+    theme: night
+#     themeUrl: https://example.com/my-custom-theme.css
+    logoUrl: https://tensoract.github.io/assets/logo-nobackground.svg
+    faviconSvg: https://tensoract.github.io/assets/logo-nobackground.svg
     
     
     
+    
+#theme
