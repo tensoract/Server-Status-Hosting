@@ -6,6 +6,8 @@ sites:
     url: https://www.google.com
   - name: IP_MINECRAFTSERVERMAP
     url: $IP_MINECRAFTSERVERMAP
+  - name: Student UIT
+    url: https://student.uit.edu.vn/
 
 status-website:
     baseUrl: /status
