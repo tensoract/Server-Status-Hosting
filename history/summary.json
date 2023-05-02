@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 149,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "time": 90,
+    "timeDay": 113,
+    "timeWeek": 90,
+    "timeMonth": 90,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   },
   {
@@ -22,12 +22,12 @@
     "url": "$IP_MINECRAFTSERVERMAP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ip-minecraftservermap",
-    "status": "up",
-    "uptime": "61.52%",
-    "uptimeDay": "46.02%",
-    "uptimeWeek": "61.52%",
-    "uptimeMonth": "61.52%",
-    "uptimeYear": "61.52%",
+    "status": "down",
+    "uptime": "61.70%",
+    "uptimeDay": "46.64%",
+    "uptimeWeek": "61.70%",
+    "uptimeMonth": "61.70%",
+    "uptimeYear": "61.70%",
     "time": 415,
     "timeDay": 407,
     "timeWeek": 415,
@@ -38,7 +38,7 @@
       "2023-05-01": 618,
       "2023-04-30": 822,
       "2023-04-29": 656,
-      "2023-04-28": 256
+      "2023-04-28": 245
     }
   },
   {
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3953,
-    "timeDay": 4123,
-    "timeWeek": 3953,
-    "timeMonth": 3953,
-    "timeYear": 3953,
+    "time": 4040,
+    "timeDay": 4341,
+    "timeWeek": 4040,
+    "timeMonth": 4040,
+    "timeYear": 4040,
     "dailyMinutesDown": {}
   }
 ]
