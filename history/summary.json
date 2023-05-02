@@ -22,12 +22,12 @@
     "url": "$IP_MINECRAFTSERVERMAP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ip-minecraftservermap",
-    "status": "up",
-    "uptime": "60.71%",
-    "uptimeDay": "50.64%",
-    "uptimeWeek": "60.71%",
-    "uptimeMonth": "60.71%",
-    "uptimeYear": "60.71%",
+    "status": "down",
+    "uptime": "61.37%",
+    "uptimeDay": "52.08%",
+    "uptimeWeek": "61.37%",
+    "uptimeMonth": "61.37%",
+    "uptimeYear": "61.37%",
     "time": 416,
     "timeDay": 414,
     "timeWeek": 416,
@@ -38,7 +38,7 @@
       "2023-05-01": 618,
       "2023-04-30": 822,
       "2023-04-29": 656,
-      "2023-04-28": 362
+      "2023-04-28": 319
     }
   },
   {
