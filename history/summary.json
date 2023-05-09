@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 85,
-    "timeWeek": 94,
+    "timeDay": 82,
+    "timeWeek": 95,
     "timeMonth": 93,
     "timeYear": 93,
     "dailyMinutesDown": {}
@@ -22,17 +22,19 @@
     "url": "https://student.uit.edu.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/student.uit.edu.vn.ico",
     "slug": "student-uit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3995,
-    "timeDay": 3693,
-    "timeWeek": 4031,
-    "timeMonth": 3995,
-    "timeYear": 3995,
-    "dailyMinutesDown": {}
+    "time": 3780,
+    "timeDay": 2379,
+    "timeWeek": 3552,
+    "timeMonth": 3780,
+    "timeYear": 3780,
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   }
 ]
