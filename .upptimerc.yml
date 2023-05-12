@@ -2,7 +2,7 @@ owner: tensoract # Organization
 repo: status
 
 sites:
-  - name: Google
+   name: Google
     url: https://www.google.com
   - name: Student UIT
     url: https://student.uit.edu.vn/
