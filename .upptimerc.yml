@@ -6,6 +6,8 @@ sites:
     url: https://www.google.com
   - name: Student UIT
     url: https://student.uit.edu.vn/
+  - name: bruh
+    url: URL_GOOGLEDICH
 
 status-website:
     baseUrl: /status
