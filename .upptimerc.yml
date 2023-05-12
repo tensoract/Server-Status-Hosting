@@ -8,7 +8,7 @@ sites:
     url: https://student.uit.edu.vn/
   - name: bruh
     url: $URL_YOUTUBE
-  - name test
+  - name: test
     url: $YOUTUBE_LINK
 
 status-website:
