@@ -7,7 +7,7 @@ sites:
   - name: Student UIT
     url: https://student.uit.edu.vn/
   - name: bruh
-    url: $URL_GOOGLEDICH
+    url: $URL_YOUTUBE
 
 status-website:
     baseUrl: /status
